@@ -1,19 +1,45 @@
 @charset "utf-8";
 
+/* https://raw.githubusercontent.com/jgthms/minireset.css/master/minireset.min.css */
+html { font-size: 20px; }
+html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,iframe,hr,h1,h2,h3,h4,h5,h6{margin:0;padding:0;background-color:inherit;color:inherit}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}ul{list-style:none}button,input,select,textarea{margin:0}html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}img,embed,iframe,object,audio,video{height:auto;max-width:100%}iframe{border:0}table{border-collapse:collapse;border-spacing:0}td,th{padding:0;text-align:left}
+
 /* Where the problem begins */
-body {
+.paragraph-icon {
+  float: right;
+  margin-left: 2em;
+  margin-bottom: 2em;
+}
+
+#flex-version {
   display: flex;
-  flex-flow: row wrap;
-  grid-gap: 1rem;
+  flex-flow: column;  // 'row wrap' is even worse!
+  grid-gap: 0.5rem;
 }
 
 /* Just to look prettier */
 body {
-  font-size: 20px;
   font-family: "Inter", "Open Sans", sans-serif;
 
   width: 60vw;
   margin-left: auto;
   margin-right: auto;
+
+  hr {
+    margin-top: 2em;
+    margin-bottom: 1em;
+  }
+
+  h1 {
+    font-size: 200%;
+    font-weight: 900;
+  }
+
+  // In the flex-version, grid-gap does this
+  #float-version {
+    p, h1 {
+      margin-bottom: 0.5em;
+    }
+  }
 }
 

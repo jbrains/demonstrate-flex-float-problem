@@ -3,9 +3,11 @@ layout: page
 ---
 This page demonstrates the problem I'm experiencing.
 
-First, what I get when I try to use flex.
+------
 
 <section id="flex-version">
+
+First, what I get when I try to use flex.
 
 # Heading ![](/images/cat.png){ .paragraph-icon }
 
@@ -17,9 +19,11 @@ T-bone  hamburger meatball cupidatat kielbasa, doner in drumstick tempor  sirloi
 
 </section>
 
-Next, what I want when I use float without flex.
+------
 
 <section id="float-version">
+
+Next, what I want when I use float without flex.
 
 # Heading ![](/images/cat.png){ .paragraph-icon }
 
