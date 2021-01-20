@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
 ---
+This page demonstrates the problem I'm experiencing.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Heading ![](/images/cat.png){ .paragraph-icon }
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Spicy jalapeno bacon ipsum dolor amet  culpa laborum ullamco sint proident nostrud, id pariatur magna shank  commodo pork chop.  Aliquip quis tongue mollit biltong labore tri-tip  aliqua laboris adipisicing shoulder.  Ball tip ham turducken, cow  biltong in labore velit laborum irure aliqua alcatra prosciutto laboris  sint.  Spare ribs brisket flank fugiat capicola in nostrud cow.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Cupim  duis shoulder leberkas occaecat nulla burgdoggen chuck spare ribs pork  capicola pancetta.  Chislic aute laborum quis biltong rump, anim in eu  tail ribeye ullamco porchetta ad fugiat.  Eu shank lorem qui anim.   Bresaola ham beef tempor swine eiusmod deserunt commodo ribeye filet  mignon boudin laboris chislic magna buffalo.  Laborum velit ham mollit  do laboris ullamco aliqua.  Proident bacon fugiat nostrud chuck buffalo  in eiusmod doner salami pork chop deserunt sirloin hamburger consequat.
 
-
-[jekyll-organization]: https://github.com/jekyll
+T-bone  hamburger meatball cupidatat kielbasa, doner in drumstick tempor  sirloin consectetur swine ipsum tenderloin.  Tenderloin cillum esse et  aute swine proident pork chop in.  Dolore sirloin biltong cillum  proident ut hamburger doner pariatur kevin pork chop venison tail flank  qui.  Proident nisi tri-tip burgdoggen exercitation, filet mignon sunt  corned beef.

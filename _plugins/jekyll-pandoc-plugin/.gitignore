@@ -1,0 +1,7 @@
+_site/
+php/
+.sass-cache
+.jekyll-metadata
+
+.bundle
+vendor
